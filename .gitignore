@@ -1,0 +1,12 @@
+.env
+ts-state/
+EOF
+*.log
+.DS_Store
+docker/config/db/
+docker/config/web/certs/
+.env
+.env
+docker/config/db/
+docker/config/web/certs/
+ts-state/
